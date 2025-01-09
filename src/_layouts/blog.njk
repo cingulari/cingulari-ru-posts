@@ -1,0 +1,42 @@
+---
+title: Max Mayak | Toa of Masleena Catching
+---
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/blog.css">
+	<base href="http://cingulari.ru"> 
+    <title>{{ title }}</title>
+  </head>
+  <body>
+  <input type="checkbox" class="theme-switch" id="theme-switch" />
+  <div id="page">
+    <div id="content">
+        <header>
+          <label for="theme-switch" class="switch-label"></label>
+        </header>
+    {{ content | safe }}
+    	<script>
+      // This code is only used to remember theme selection between page loads
+      const themeSwitch = document.querySelector('.theme-switch');
+      themeSwitch.checked = localStorage.getItem('switchedTheme') === 'true';
+
+      themeSwitch.addEventListener('change', function(e) {
+        if (e.currentTarget.checked === true) {
+          // Add item to localstorage
+          localStorage.setItem('switchedTheme', 'true');
+        } else {
+          // Remove item if theme is switched back to normal
+          localStorage.removeItem('switchedTheme');
+        }
+      });
+    	</script>
+	<hr>	
+	<div align="center">
+	2008-2025<br> 
+	© @CingularI’s Keep 
+	</div>
+  </body>
+</html>
