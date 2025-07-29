@@ -1,7 +1,8 @@
+#output folder
+_site
+
 # dependencies installed by npm
 node_modules
 
 # secrets and errors
 *.log
-
-src/markdown.md
