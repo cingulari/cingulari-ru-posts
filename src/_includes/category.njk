@@ -1,0 +1,13 @@
+<section class="container blog">
+	<div class="post--bg col-three">
+		{%- if tag == 'misc-page' -%}
+		{%- for post in collections.misc
+Posts | reverse -%}
+	    {%- include 'post-card.njk' -%}
+	    {%- endfor -%}
+		{%- for post in collections.blog | reverse -%}
+		{%- include 'post-card.njk' -%}
+		{%- endfor -%}
+		{% endif %}
+	</div>
+</section>

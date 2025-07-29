@@ -1,0 +1,225 @@
+:root {
+  /* Light mode */
+  --light-switch-shadow: #373d4e;
+  --light-switch-icon: url("/img/blackbg_min.png");
+  --light-switch-text: "Гасим свет";
+  --light-text: #222430;
+  --light-bg: #eeeeee;
+  --light-bg-image: url("/img/whitebg.png");
+  --light-theme: #d34a97;
+
+  /* Dark mode */
+  --dark-switch-shadow: #dedede;
+  --dark-switch-icon: url("/img/whitebg_min.png");
+  --dark-switch-text: "Включить огни";
+  --dark-text: #f7f7f7;
+  --dark-bg: #333333;
+  --dark-bg-image: url("/img/blackbg.png");
+  --dark-theme: #bd93f9;
+
+  /* Default mode */
+  --switch-shadow-color: var(--light-switch-shadow);
+  --switch-icon: var(--light-switch-icon);
+  --switch-text: var(--light-switch-text);
+  --text-color: var(--light-text);
+  --bg-color: var(--light-bg);
+  --bg-image: var(--light-bg-image);
+  --theme-color: var(--light-theme);
+}
+
+/* Switched mode */
+.theme-switch:checked ~ #page {
+  --switch-shadow-color: var(--dark-switch-shadow);
+  --switch-icon: var(--dark-switch-icon);
+  --switch-text: var(--dark-switch-text);
+  --text-color: var(--dark-text);
+  --bg-color: var(--dark-bg);
+  --bg-image: var(--dark-bg-image);
+  --theme-color: var(--dark-theme);
+}
+
+/* Theme switcher */
+.theme-switch { /* Hides the checkbox */
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+.switch-label {
+  cursor: pointer;
+  display: flex;
+}
+
+.switch-label::before {
+  content: var(--switch-icon);
+  font-size: 40px;
+  transition: text-shadow 2.2s;
+}
+
+.switch-label::after {
+  align-self: center;
+  content: var(--switch-text);
+  color: var(--switch-shadow-color);
+  font-size: 28px;
+  line-height: 40px;
+  opacity: 0;
+  padding-left: 15px;
+  transition: opacity.2s;
+}
+
+.theme-switch:focus ~ #page .switch-label::before,
+.switch-label:hover::before {
+  text-shadow: 0 0 15px var(--switch-shadow-color);
+}
+
+.theme-switch:focus ~ #page .switch-label::after,
+.switch-label:hover::after {
+  opacity: 1;
+}
+
+/* Styling */
+
+html, body {
+    height: 100%;
+    font-size: 15px;
+    font-family: Saira, Verdana;
+    color: var(--theme-color);
+}
+
+body {
+  background-size: cover;
+  background-repeat: repeat;
+  margin: 0 auto;
+
+  background: var(--bg-color);
+  background-image: var(--bg-image);
+  color: var(--text-color);
+}
+
+#page {
+  background: var(--bg-color);
+  background-image: var(--bg-image);
+  color: var(--text-color);
+  font: serif;
+  min-height: 100%;
+  transition: color .2s, background-color .2s;
+}
+
+#content {
+  margin: auto;
+  min-width: 640px;  
+  max-width: 85%;
+  padding: 2ch;
+}
+
+  img {
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0;
+    max-width: 100%;
+  }
+
+a {
+	text-decoration: none;
+	color: var(--theme-color);
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+span + span {
+    margin-left: 10px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.logo {
+	font-size: 42px;
+	text-align: center;
+	font-weight: bold;
+	color:var(--text-color);
+}
+
+.footer-text {
+	font-size: 21px;
+}
+
+.primary-nav, .footer-links {
+	font-size: 21px;
+	text-align: center;
+	font-weight: bold;
+	color:var(--text-color);
+}
+
+h1 {
+	color: var(--theme-color);
+	font-family: serif;
+    font-size: 4rem;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+  }
+
+h2 {
+	color: var(--theme-color);
+	font-family: serif;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+  }
+
+h3 {
+	color: var(--theme-color);
+	font-family: serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+  }
+
+p {
+	color: var(--text-color);
+	font-family: serif;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 1rem;
+  }
+  pre {
+    background-color: var(--pre-color);
+  	border-left: dashed var(--theme-color);
+    color: var(--text-color);
+    font-size: 1rem;
+    padding: 2rem;
+    overflow: auto;
+  }
+ p code {
+    background: var(--theme-color);
+    border: 0.25rem solid var(--theme-color);
+    border-left-width: 0.5rem;
+    border-right-width: 0.5rem;
+    color: var(--text-color);
+    font-size: 0.9em;
+  }
+
+ table {
+      width: 100%;
+      max-width: 400px;
+      border-top: 7px solid var(--theme-color);
+      border-collapse: collapse;
+    }
+
+    table th,
+    table td {
+      padding: 14px;
+      border: 1px solid var(--theme-color);
+      line-height: 1.2;
+    }

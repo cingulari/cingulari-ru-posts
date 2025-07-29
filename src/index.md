@@ -1,11 +1,7 @@
 ---
-layout: blog.njk
-title: Бложек
+title: 'cingulari'
+layout: 'index.njk'
+tag: home-page
 ---
 
-# Заметки на полях
-
-[маркдаун](posts/markdown/)
-[Первопост](posts/first-post/)
-
-[на главную]()
+Я делаю [картинки](/gallery) разного пошиба, пишу [всякие посты](/blog) про интересные для меня штуки, ну и [архивирую всякое](/heritage).
