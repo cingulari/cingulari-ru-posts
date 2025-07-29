@@ -1,6 +1,6 @@
 #output and images originals folder
 _site
-src/img_orig # too heavy and useless on github to have
+"src/img_orig" # too heavy and useless on github to have
 
 # dependencies installed by npm
 node_modules
