@@ -1,5 +1,7 @@
 ---
+title: 'Архивы X-27'
 layout: 'base.njk'
+desc: '@CingularI - сталкер-фанфик четвертый'
 ---
 
 # Архивы X-27

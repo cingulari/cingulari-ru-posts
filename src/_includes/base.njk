@@ -8,6 +8,11 @@
     <link rel="icon" href="/img/favicon.png" type="image/png">
 </head>
 <body>
+    <title>
+      {% if not isHome %}
+        {{ title }} -
+      {% endif %}
+        cingulari</title>
     <input type="checkbox" class="theme-switch" id="theme-switch" />
   	<div id="page">
     <div id="content">

@@ -1,5 +1,7 @@
 ---
+title: 'Цена жизни'
 layout: 'base.njk'
+desc: '@CingularI - сталкер-фанфик второй'
 ---
 
 # Цена жизни

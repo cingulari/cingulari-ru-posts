@@ -1,8 +1,10 @@
 ---
+title: 'l2t/dest'
 layout: 'base.njk'
+desc: '@CingularI - Дест с L2T'
 ---
 
-# Сакри
+# Дест
 
 Имя | Михаил
 --- | ---

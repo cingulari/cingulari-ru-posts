@@ -1,6 +1,7 @@
 ---
+title: 'о себе'
 layout: 'base.njk'
-tag: about-page
+desc: '@CingularI - секция информации про автора'
 ---
 <section class="page">
 

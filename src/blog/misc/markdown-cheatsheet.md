@@ -1,6 +1,7 @@
 ---
+title: 'markdown cheatsheet'
 layout: 'base.njk'
-date: 2022-04-24
+desc: '@CingularI - копипаст маркдауна'
 ---
 
 # Headers

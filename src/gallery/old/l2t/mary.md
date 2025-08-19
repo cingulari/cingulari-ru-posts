@@ -1,5 +1,7 @@
 ---
+title: 'l2t/mary'
 layout: 'base.njk'
+desc: '@CingularI - Марья с L2T'
 ---
 
 # Марья

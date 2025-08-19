@@ -1,5 +1,7 @@
 ---
+title: 'Knight of Despair Rodion'
 layout: 'base.njk'
+desc: '@CingularI - заметки о картинке с Родионкой'
 ---
 
 # Knight of Despair Rodion

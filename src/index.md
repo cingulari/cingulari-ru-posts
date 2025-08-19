@@ -1,7 +1,7 @@
 ---
-title: 'cingulari'
+title: 'главная'
 layout: 'index.njk'
-tag: home-page
+desc: '@CingularI - домашная страничка о всяком'
 ---
 
 Я делаю [картинки](/gallery) разного пошиба, пишу [всякие посты](/blog) про интересные для меня штуки, ну и [архивирую всякое](/heritage).

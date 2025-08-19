@@ -1,5 +1,7 @@
 ---
+title: 'архив'
 layout: 'base.njk'
+desc: '@CingularI - архивный раздел'
 ---
 
 # Архивное

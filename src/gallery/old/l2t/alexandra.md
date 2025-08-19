@@ -1,5 +1,7 @@
 ---
+title: 'l2t/alexandra'
 layout: 'base.njk'
+desc: '@CingularI - Александра с L2T'
 ---
 
 # Александра

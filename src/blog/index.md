@@ -1,5 +1,7 @@
 ---
+title: 'бложек'
 layout: 'base.njk'
+desc: '@CingularI - всякие заметки'
 ---
 # Всратые записки
 

@@ -1,5 +1,7 @@
 ---
+title: 'архив/ссылки'
 layout: 'base.njk'
+desc: '@CingularI - архив ссылок'
 ---
 
 # Архив: ссылочьки

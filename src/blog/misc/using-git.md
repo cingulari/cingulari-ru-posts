@@ -1,6 +1,7 @@
 ---
+title: 'работа с гитом'
 layout: 'base.njk'
-date: 2025-07-29
+desc: '@CingularI - памятка себе о git'
 ---
 
 # Синхронизация через git

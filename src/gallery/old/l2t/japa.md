@@ -1,6 +1,9 @@
 ---
+title: 'l2t/japa'
 layout: 'base.njk'
+desc: '@CingularI - Джапа с L2T'
 ---
+
 
 # Джапа
 

@@ -1,5 +1,7 @@
 ---
+title: 'l2t/lonely'
 layout: 'base.njk'
+desc: '@CingularI - Лонели с L2T'
 ---
 
 # Лонели

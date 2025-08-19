@@ -1,7 +1,8 @@
-{%- if tag == 'home-page' -%}
-<title>CingularI's Keep - Главная</title>
-<meta name="description" content="CingularI's Home Page">
-{%- elif tag == 'about-page' -%}
-<title>CingularI's Keep - О себе</title>
-<meta name="description" content="This is the about page description.">
-{%- endif -%}
+
+<meta property="og:image" content="/img/og.jpg"/>
+<meta property="og:title" content="CingularI's Keep - {{ title }}"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="{{ desc }}"/>
+<meta property="og:url" content="{{ metadata.url }}{{ page.url }}"/>
+<meta property="og:site_name" content="cingulari"/>
+<meta property="og:locale" content="ru_RU">
