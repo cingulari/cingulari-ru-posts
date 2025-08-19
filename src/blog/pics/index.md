@@ -10,6 +10,9 @@ desc: '@CingularI - заметки о своих картинках'
 
 Ах да кстати, вот вам [список всех картинок](https://docs.google.com/spreadsheets/d/1Dof9Lbu1puJi99Yf_uXVXr2DvLXQH7hRIfiV5j22cFI/edit?usp=sharing) с 2024-го в формате гугл-таблицы.
 
+[Избранное с курса Марка Брунэ](marc-brunnet-practice) - 2025-08-19
+>Всякие голые бубсы и мясные палки останутся у меня на харде, а не здесь.
+
 [Knight of Despair Rodion](kod-rodion) - 2025-08-04
 >После долгого перерыва, я наконец снова поработал на планшете.
 
