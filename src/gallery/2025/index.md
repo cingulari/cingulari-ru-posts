@@ -58,3 +58,6 @@ desc: '@CingularI - картинки за 2025'
 ### Knight of Despair Rodion
 ![](/img_orig/2025/15-rodya.png)
 Подробнее в [посте](/blog/pics/kod-rodion) об этой картинке.
+### Contempt, Awe Ryoshu
+![](/img_orig/2025/16-ca-ryoshu.png)
+Подробнее в [посте](/blog/pics/ca-ryoshu) об этой картинке.
