@@ -32,7 +32,7 @@ export default function (eleventyConfig) {
         passthroughFileCopy: true,
         dir: {
             input: "src",
-            output: "_site",
+            output: "/var/www/html",
             includes: '_includes',
             },
     };

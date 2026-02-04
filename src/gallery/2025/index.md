@@ -61,3 +61,10 @@ desc: '@CingularI - картинки за 2025'
 ### Contempt, Awe Ryoshu
 ![](/img_orig/2025/16-ca-ryoshu.png)
 Подробнее в [посте](/blog/pics/ca-ryoshu) об этой картинке.
+### Vash the Stampede, Magic Bullet Outis
+![](/img_orig/2025/17-trigun.png)
+### Dulcinea
+![](/img_orig/2025/18-dulcinea.png)
+### Retsu Unohana and Isane Kotetsu
+![](/img_orig/2025/19-4th-division.png)
+
