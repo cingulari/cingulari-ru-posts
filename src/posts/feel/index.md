@@ -1,12 +1,13 @@
 ---
-title: 'бложек/отчеты'
+title: 'blog/reports'
 layout: 'base.njk'
-desc: '@CingularI - ежемесячные заметки о самоощущении'
+desc: '@CingularI - irregular notes on self-perception'
 ---
 
 
-# Отчеты
+# Reporting
 
-Считайте это неким ритуалом, который мне понравился как концепция. Тут будут расположены записи по месяцам с небольшим суммарным прожитым опытом.
+Think of it as a kind of ritual, which I liked as a concept. Here, you’ll find monthly entries capturing a brief summary of the experiences I’ve lived through.
 
-[Июль 2025](july2025) - 2025-07-27
+[July 2025](july2025) - 2025-07-27
+[September 2026](sep2026) - 2026-09-19

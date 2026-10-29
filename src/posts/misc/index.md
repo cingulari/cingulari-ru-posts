@@ -1,18 +1,18 @@
 ---
-title: 'бложек/разное'
+title: 'blog/misc'
 layout: 'base.njk'
-desc: '@CingularI - всякие заметки на разнообразные темы'
+desc: '@CingularI - miscellaneous'
 ---
 
-# Разное
+# Miscellaneous
 
-Топики различной тематики, на которую мне очень уж захотелось порассуждать. Вы же не против?
+Topics on various topics that I really wanted to discuss. You don’t mind, do you?
 
-[Как работает git?](using-git) - 2025-07-27
->Еще один гайд для себя, чтобы не забывал.
+[How Git works?](using-git) - 2025-07-27
+>Yet another guide for myself, so I don’t forget.
 
-[Конец ли анонимности в Сети?](anonimity-fall) - 2025-07-27
->Европа в очередной раз экспортирует свои любимые регуляции. Но, так ли они уж плохи в общем и целом?
+[The end of anonymity?](anonimity-fall) - 2025-07-27
+>Europe is once again exporting its favorite regulations. But are they really that bad overall?
 
-[Памятка по маркдауну](markdown-cheatsheet) - 2022-04-24
->Не то чтобы прям пост, но что-то необходимое.
+[Markdown cheatsheet](markdown-cheatsheet) - 2022-04-24
+>Not exactly a post, but something necessary for me.

@@ -13,4 +13,4 @@ desc: '@CingularI - архивный раздел'
 - [shinigame wiki](../shinigame-wiki)
 - [личная вики](../aliteg-wiki)
 - [Тестовый SMF форум](../forum)
-
+- [wordpress blog](../blog)

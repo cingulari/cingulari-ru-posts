@@ -1,77 +1,77 @@
 ---
 title: 'Contempt, Awe Ryoshu'
 layout: 'base.njk'
-desc: '@CingularI - заметки о картинке с Рёшей'
+desc: '@CingularI - Contempt, Awe Ryoshu'
 ---
 
 # Contempt, Awe Ryoshu
-Быстрое перемещение:
-- [Изначальная задумка](#1)
-- [Референсы](#2)
-- [Черновик](#3)
-- [Чистовой лайн](#4)
-- [Покрас](#5)
-- [Волосы](#6)
-- [Доработка лайна](#8)
-- [Итог](#9)
-## <a id="1"></a>Изначальная задумка
-Представьте мое лицо, когда я за пару часов до объявления баннера с этой айдишкой подумал:"Как странно, есть эго с этой аномальки, но нет айдишки, интересно, кому ее впихнут? Наверное, тоже в р1шу, раз у нее это эго есть."
-И буквально через часа три-четыре дроп тизера. Класное.
-## <a id="2"></a>Референсы
-Их в тот момент было немного, но и надо ли уж прям дофига? Вот и я о том же.
+Fast travel:
+- [Initial concept](#1)
+- [References](#2)
+- [Draft](#3)
+- [Final lineart](#4)
+- [Coloring](#5)
+- [Hair](#6)
+- [Refining Lineart](#8)
+- [Final](#9)
+## <a id="1"></a>Initial concept
+Imagine my face when, a couple of hours before the banner announcement for this identity, I thought to myself: "That’s strange, there’s an E.G.O. from this anomaly, but no corresponding ID. I wonder who they’ll end up giving it to? Probably Ryoshu, since she’s the one who has that E.G.O."
+And then, literally three or four hours later, the teaser drops. Ah well shit then.
+## <a id="2"></a>References
+There weren’t many of them at the time—but then again, did there really need to be a ton? That's what I'm talking about.
 ![](/img_orig/2025/ca-ryoshu/2.png)
-Я отскринил саму аномальку, взял пикчи с ее баннера, ну и перса с тем же эквипом из сюжетки.
-## <a id="3"></a>Черновик
-В этот раз я пооступил немного иначе, нежели обычно: я сделал эту часть на бумаге в рабочее время(извините кто на работе более занят).
+I took a screenshot of the abnormality itself, grabbed some images from Ryoshu's banner, and also got a shot of the character with the same gear from the story campaign.
+## <a id="3"></a>Draft
+This time, I did things a bit differently than usual: I worked on this part on paper during my worktime (my apologies to those of you who are busier at work).
 ![](/img_orig/2025/ca-ryoshu/1.png)
-На этом моменте я начал жутко не понимать, а вот все эти златые ветки, они самих-то авторов не запутывали? В любом случае, через энное число времени я донес этот шедевр до компа и подрихтовал его там.
+At this point, I became thoroughly confused—didn’t all these golden branches end up baffling the authors themselves? In any case, some time later, I got this crap onto my computer and polished it up a bit.
 ![](/img_orig/2025/ca-ryoshu/3.png)
-З. Ы. через некоторое время я поправлю волосы и лицо, когда так сказать пойму что что-то не сходится. А пока работаем так.
-## <a id="4"></a>Чистовой лайн
-Первая версия без различия в линиях:
+P.S. After some time, I will fix hair and face when, so to speak, I understand that something doesn’t add up. For now, though, we’ll work with it as is.
+## <a id="4"></a>Final lineart
+Initial version without lineweight:
 ![](/img_orig/2025/ca-ryoshu/4.png)
-Да, тут все достаточно паршиво, но это лишь из-за того, что я собирался дорабатывать лайн дальше, а не как обычно. К слову об этом:
+Yes, everything is pretty lousy here, but that's only because I was going to refine the line further, and not like usual. Speaking of which:
 ![](/img_orig/2025/ca-ryoshu/5.png)
-Линии по основному контуру были сделаны толще внутренних, да, намеренно. Конечный лайн до правок лицевой части:
+Main outline were made thicker than the inner ones, yes, that was intentional. The final line art, prior to adjustments to the facial area:
 ![](/img_orig/2025/ca-ryoshu/6.png)
-## <a id="5"></a>Покрас
-Ох, как вы думаю догадались, эта серая заливочка ох не спроста была добавлена. Да-да, тут нас будут ждать... градиент-мапы! Я в них не умею, как и во все остальное, но мне показалось, что это хороший метод в данной ситуации. Первый скрин -- на моменте завершения раскидывания освещенности по мечу и немного по веткам сзади:
+## <a id="5"></a>Coloring
+Oh, as you probably guessed, this gray fill was added for a reason. Yes, indeed—we’re going to be using... gradient maps! I’m not exactly an expert with them(or anything else, for that matter) but it seemed like a good approach for this particular situation. The first screenshot shows the stage where I’ve finished laying out the lighting across the sword and, to some extent, the branches on the back:
 ![](/img_orig/2025/ca-ryoshu/7.png)
-Когда я добрался до лица, я понял, что попытка накидать теней выявила сильные погрешности, да и челка не та, как должна была быть. Исправляем и дорабатываем оставшиеся части:
+When I got to the face, I realized that my attempt to block in some shadows had revealed significant flaws; plus, the bangs didn’t look the way they were supposed to. Time to make corrections and refine the remaining parts:
 ![](/img_orig/2025/ca-ryoshu/8.png)
-Вроде все готово. Далее от нас требуется лишь докинуть цвет через градиет-мапы на все области, и мы в шоколаде. Замечу еще, что лишний лайн по типу полосок на жилетке или бабочек на гарде я выпилил за ненадобностью. М-м, да, я в курсе что катана за спиной кривовата, но волновало бы это меня еще.
+Looks like everything’s ready. All that’s left is to add some color using gradient maps, and we’re all set. I'll also note that I cut out the extra lineart, like the stripes on the vest or the butterflies on the guard, as they were no longer needed. Yeah, I know the katana on the back looks a bit wonky, but honestly, I couldn't care less.
 ![](/img_orig/2025/ca-ryoshu/9.png)
-Скажу честно, я не стану расписывать, где какой градиент был выбран, ибо это не так уж и важно в общем итоге. Давайте глянем на результат работы градиентов, раз уж использовал их! На волосы внимания не обращайте, они были сделаны как обычно.
+To be honest, I won’t go into detail about which specific gradients were chosen, as it doesn’t really matter much for the final result. Let’s take a look at how the gradients turned out, since I did use them, after all! Don’t pay any attention to the hair; it was done in the usual way.
 ![](/img_orig/2025/ca-ryoshu/10.png)
-Во, офигенно же! Я еще добавил кровоподтеков грубо, так как и у аномалки, и у снаряги с нее они были. Так-то мне кажется еще немного недоработал с внешней частью "пиджака", ибо она как видим совсем без отражений или прочего. Да и шут с ней. Кстати, еще добавил свечение кристаллу в мече, хоть вроде бы и не подразумевалось:
+Noice! I also added some bloodstreams, since both the abnormality and E.G.O. gear have had them. I feel like I could have done a bit more work on the outer part of the "jacket"—it’s completely lacking any reflections or anything similar—but oh well, screw it. By the way, I also added a glow to the crystal in the sword, even though it wasn't really intended:
 ![](/img_orig/2025/ca-ryoshu/11.png)
-## <a id="6"></a>Волосы
-А тут тот же паттерн, что и [Родионки](../kod-rodion#6). Начальная заливка:
+## <a id="6"></a>Hair
+And here we have the same pattern as in [Rodion](../kod-rodion#6). Initial fill:
 ![](/img_orig/2025/ca-ryoshu/h1.png)
-Затенения:
+Shaded areas:
 ![](/img_orig/2025/ca-ryoshu/h2.png)
-Основные тени:
+Main shadows:
 ![](/img_orig/2025/ca-ryoshu/h3.png)
-Бликовое:
+Highlight:
 ![](/img_orig/2025/ca-ryoshu/h4.png)
-Градиентная освещенность:
+Gradient illumination:
 ![](/img_orig/2025/ca-ryoshu/h5.png)
-Итог:
+Result:
 ![](/img_orig/2025/ca-ryoshu/h6.png)
-Уж не помню какой я использовал метод наложения, но вроде мультиплай для теней, софт-лайт для остального -- на 35% каждый.
-## <a id="7"></a>Фон
-Вы не поверите, но фон делался буквально так же, как и в случе Родионки. Начальная грубая интерпретация фона из боя с аномалькой -- золотистый кружок над водопадом из крови, золотистые же ветки снизу и стены. Подобие желтовато-оранжевого неба. Смотрим:
+I don’t recall exactly which blending modes I used, but I believe it was 'Multiply' for the shadows and 'Soft Light' for the rest, each set at 35%.
+## <a id="7"></a>BG
+Believe it or not, the background was created in much the same way as the one for Rodion. It began as a rough interpretation of the background from the battle with the abnormality: a golden arc above a waterfall of blood, with golden branches and walls below. There’s also a hint of a yellowish-orange sky. Take a look:
 ![](/img_orig/2025/ca-ryoshu/12.png)
-Далее копия, размытие и непрозрачность на 95%:
+Next, a duplicate, a blur, and opacity set to 95%:
 ![](/img_orig/2025/ca-ryoshu/13.png)
-И небольшая порция черно-желтого градиента поверх:
+And a little bit of a black-and-yellow gradient on top:
 ![](/img_orig/2025/ca-ryoshu/14.png)
-Все? А вот нет, осталось подпилить лайн еще чуть-чуть!
-## <a id="8"></a>Доработка лайна
-На данном этапе у нас следующее:
+All done? Actually, no—the line still needs a bit more filing!
+## <a id="8"></a>Refining Lineart
+At this stage, we have the following:
 ![](/img_orig/2025/ca-ryoshu/15.png)
-Чтобы это улучшить, нам нужно лишь доструячить немного цвета в лайн и будет наес. Везде лайн был покрашен тем же основным цветом, что и около него, но затемненным достаточно сильно. Только у красных кристаллов в мече лайн сделан светлым, ведь я им дал свечение, и это будет логично. В любом случае, итог-то какой?
-## <a id="9"></a>Итог
-А итог таков, что в сути я даже постарался, хоть и не сильно.
+To improve this, we just need to splash a bit of color into the line art, and it’ll be all good. The line art throughout has been colored using the same base hue as the surrounding area, but significantly darkened. The only exception is the line art for the red crystals in the sword—I’ve made that light, since I’ve given them a glow effect, which makes perfect sense. In any case, what’s the final result?
+## <a id="9"></a>Final
+And the result is that, in essence, I even tried, although not very hard.
 ![](/img_orig/2025/ca-ryoshu/16.png)
-Было весело, но растянул прям на несколько дней.
+It was fun, but I ended up stretching it out over several days.

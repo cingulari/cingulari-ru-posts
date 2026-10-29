@@ -1,15 +1,20 @@
 ---
-title: 'главная'
+title: 'main'
 layout: 'index.njk'
-desc: '@CingularI - домашная страничка о всяком'
+desc: '@CingularI - homepage of anything'
 ---
+**As of September 26th, I have no interest in communicating, so please don’t pester me. Regarding the requests from DeviantArt, well... it’s a shame the site stopped working (and not just for me). It turns out I didn’t complete them, neither on time, nor at all. And there was some cool stuff in there, too.
+We will (not) survive.**
 
-Я делаю [картинки](/gallery) разного пошиба, пишу [всякие посты](/blog) про интересные для меня штуки, ну и [архивирую всякое](/heritage).
 
-На сайте почти отсутствует JS, так что смело можете его тут блокировать: сломается лишь смена темы со светлой на темную. Да даже CSS можете не подгружать, все останется рабочим.
+I create [pics](/gallery) with various quality, write [posts](/posts) about anything interesting for me, and [preserve some stuff](/heritage).
 
-**Предупреждение для пользователей с ограниченным или медленным трафиком -- [архивные картинки](/gallery/old) залиты в категориях сплошной стеной, никаких оптимизаций загрузок не предусмотрено.**
+This site uses almost no JavaScript, so feel free to block it: the only thing that will break is the light/dark theme switch. You could even disable CSS loading, and everything would still remain functional.
 
-## Свежая картинка от 15.02.2026
-![](/img_orig/2026/8-jill-va11.png)
+If you’re interested in requests, collaborations, or art trades, please check [this post](/posts/pics/info) first.
+
+**A note for users with limited or slow internet connections -- [all my pics](/gallery) are displayed as a solid wall within their respective categories; no loading optimizations have been implemented.**
+
+## Recent image from September 15, 2026
+![](/img_orig/2026/30-autumn-girl.png)
 

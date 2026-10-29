@@ -1,33 +1,37 @@
 ---
-title: 'о себе'
+title: 'about me'
 layout: 'base.njk'
-desc: '@CingularI - секция информации про автора'
+desc: '@CingularI - about'
 ---
 <section class="page">
 
-# О себе
+# About me
 
-Ничего не умею, а гонора много. Тем не менее, что-то я все-таки делал в этой жизни, а именно:
-- Помогал организовывать небольшие туристические походы по Московской области;
-- Пилил видосы на ютуб и стримил на твичах;
-- Сделал вики по китайской браузерке и оказывал посильную помощь игрокам;
-- Изучал пиксель арт, арт обычный и арт цифровой;
-- Нагло воровал чужой код под предлогом изучения HTML и CSS;
-- Коллекционирую биониклов и старые материнки;
-- И многое, многое другое.
+I don’t really know how to do anything, Still, I have managed to do a few things in my life:
+- Helped organize small hiking trips around the Moscow region;
+- Made videos for YouTube and streamed on Twitch;
+- Created a wiki for a Chinese browser-based game and provided whatever help I could to other players;
+- Studied pixel, traditional, and digital art;
+- Shamelessly stole other people’s code under the guise of learning HTML and CSS;
+- Collecting Bionicle and old motherboards;
+- And much, much more.
 
-Ночью я лаборант в ПЦР, днем же -- любитель поспать и заниматься лоботрясничеством. Обожаю [старый интернет](/heritage/links), кнопочные телефоны, [мемасы](/memes) и иногда даже [игры](/games).
+By night, I work as a lab technician in PCR testing; by day, I’m a fan of sleeping in and just goofing off.  I love the [old internet](/heritage/links), cell phones, memes, and games.
 
-Помимо всего прочего, меня можно обнаружить в [телеге](https://t.me/cingulari_art) и [вк](https://vk.com/cingulari_art).
+Among other places, you can also find me on [Telegram](https://t.me/cingulari_art) and [VK](https://vk.com/cingulari_art).
 
-## О сайте
+## About webpage
 
-Всегда хотел заиметь свой кусочек интернетов, где я могу просто быть вне времени и пространства. Соцсети уже давно стали местом, где невозможно находиться неиронично -- очередное обновление что-то ломает, куда-то зайти запрещено, а где-то и вовсе нам не рады по географическим причинам. Скука, короче, алгоритмическая для простого потребления.
+I’ve always wanted a little corner of the internet to call my own -- a place that exists outside of time and space. Social media platforms have long since reached a point where it’s impossible to engage with them unironically: constant updates break things, certain domains are banned, and in some cases, you’re not even welcome due to your geographical location. Boredom, in short, algorithmic for simple consumption.
 
-Я, конечно, умею в HTML на базовом уровне, но какую-никакую автоматизацию прикрутить надо, посему я прикрутил сюда статик-генератор [11ty](https://11ty.dev/). В принципе, можно было делать то же самое и на PHP, но не оверкилл ли для такого? То-то и оно.
+While I do know the basics of HTML, I needed some form of automation, so I’ve integrated a static site generator called [11ty](https://11ty.dev/). In principle, it would be possible to do the same thing in PHP, but wouldn't that be overkill? Exactly.
 
-По желанию можете воровать код, я не против. Хоть копируйте вчистую, лол -- рано или поздно поправите все под себя, вы же не хотите быть копиркой очередного ноунейма из Сети? Код, кстати, лежит на [гитхабе](https://github.com/cingulari/cingulari-ru-posts), так что я у мамы продвинутый, сами видите.
+You can steal the code if you want, I don't mind. Even if you copy it completely, lol -- sooner or later you'll fix everything to suit yourself, you don't want to be a carbon copy of another no-name from the Internet, do you?  By the way, the code is up on [GitHub](https://github.com/cingulari/cingulari-ru-posts), so I'm on TEKNOLOGIKAL EDGE, as you can see!
 
-Вообще я достаточно активно смотрю исходный код у различных сайтов, особенно если там есть какие-либо фишечки прикольные, и пытаюсь разобраться, что и как работает. Уверен, что лучшее обучение в этом деле -- буквально подглядывание в исходники у уже умеющих, это конечно не заменит базовых знаний HTML/CSS, но изрядно их расширит.
+In general, I quite actively look at the source code of various sites, especially if they have some cool features, and try to figure out what works and how. I'm sure that the best way to learn this is to literally look at the source code of those who already know how. This, of course, won't replace basic knowledge of HTML/CSS, but it will significantly expand it.
 
+## Buttons
+
+If you want, you can grab those bad bois with you to your space!
+![](/img/button.gif)
 </section>

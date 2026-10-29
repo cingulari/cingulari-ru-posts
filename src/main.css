@@ -2,7 +2,7 @@
   /* Light mode */
   --light-switch-shadow: #373d4e;
   --light-switch-icon: url("/img/blackbg_min.png");
-  --light-switch-text: "Гасим свет";
+  --light-switch-text: "Into the darkness";
   --light-text: #222430;
   --light-bg: #eeeeee;
   --light-bg-image: url("/img/whitebg.png");
@@ -11,7 +11,7 @@
   /* Dark mode */
   --dark-switch-shadow: #dedede;
   --dark-switch-icon: url("/img/whitebg_min.png");
-  --dark-switch-text: "Включить огни";
+  --dark-switch-text: "Get some light";
   --dark-text: #f7f7f7;
   --dark-bg: #333333;
   --dark-bg-image: url("/img/blackbg.png");
@@ -83,7 +83,7 @@
 
 html, body {
     height: 100%;
-    font-size: 15px;
+    font-size: 20px;
     font-family: Saira, Verdana;
     color: var(--theme-color);
 }
@@ -186,7 +186,7 @@ h3 {
     text-transform: uppercase;
   }
 
-p {
+p, li, ul {
 	color: var(--text-color);
 	font-family: serif;
     font-weight: 400;

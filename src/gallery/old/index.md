@@ -1,17 +1,17 @@
 ---
-title: 'картинки/старое'
+title: 'pics/old'
 layout: 'base.njk'
-desc: '@CingularI - склад картинок за 2009-2015'
+desc: '@CingularI - pics from 2009-2015'
 ---
 
-# Архив старых рисунков и концептов
+# Archive of old drawings and concepts
 
-Мне не стыдно за свои потуги из времен начала десятых, и пусть они лежат как история. В скобках на всякий случай -- примерное число трафика на каждую категорию. Числа могут быть изменены.
+I’m not ashamed of my early attempts from the beginning of the 2010s; let them remain as a piece of history. I’ve included the approximate traffic figures for each category in parentheses, just for reference. These numbers are subject to change.
 - [stalker (10Mb)](./stalker)
 - [manga/anime (4Mb)](./anime)
 - [left 2 troll (4Mb)](./l2t)
 - [mutation](./mutation)
 - [crimson scythe](./cs)
-- [разное](./misc)
+- [misc](./misc)
 
-[Ко всем категориям](../)
+[back, please go back](../)

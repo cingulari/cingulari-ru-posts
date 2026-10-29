@@ -1,89 +1,89 @@
 ---
 title: 'Knight of Despair Rodion'
 layout: 'base.njk'
-desc: '@CingularI - заметки о картинке с Родионкой'
+desc: '@CingularI - Knight of Despair Rodion'
 ---
 
 # Knight of Despair Rodion
-Быстрое перемещение:
-- [Изначальная задумка](#1)
-- [Референсы](#2)
-- [Черновик](#3)
-- [Чистовой лайн](#4)
-- [Покрас](#5)
-- [Волосы](#6)
-- [Мясной фонарь](#7)
-- [Фон](#8)
-- [Итог](#9)
+Fast travel:
+- [Initial concept](#1)
+- [References](#2)
+- [Draft](#3)
+- [Final lineart](#4)
+- [Coloring](#5)
+- [Hair](#6)
+- [Meat Lantern](#7)
+- [BG](#8)
+- [Final](#9)
 
-## <a id="1"></a>Изначальная задумка
-Вообще, я должен был эту картинку сделать еще во время эвента в лимбусе, когда ее только и добавили. Однако, я люблю все откладывать на потом, так что имеем что имеем. В любом случае, этот пост будет содержать всякую всячину, которая была использована при создании. Я же знаю, вам неинтересно.))
-## <a id="2"></a>Референсы
-Самая начальная картинка, которая и послужила толчком для всего этого дела:
+## <a id="1"></a>Initial concept
+Actually, I should have made this image back during the Limbus event, right when it was first added. But, well, I have a habit of putting things off, so here we are. Anyway, this post will contain all sorts of stuff that was used in the creation. Not that any of you care, I’m sure.))
+## <a id="2"></a>References
+The very first image, which served as the catalyst for this whole thing:
 ![](/img_orig/2025/kod-rodion/ref1.jpg)
-Что имеем? Некую магичьку и ее питомца-маскота. Принимается. А кого тогда тут рисовать(изначально были варианты)? Хм, ну можно и что-то свое, или просто вкорячить сейлормун(очень избито), или подыскать персонажа с аниме из нулевых. Были еще думы на Харухи Судзумию, но... в итоге я смог вспомнить о "магических девочках" в контексте лоботоми, а оттуда и резко вспомнил свое желание сделать артец с Родионкой. Не вопрос, берем еще рефов:
+So, what have we got? A magical girl and her mascot sidekick. Fair enough. But who should I actually draw (I had a few options)? Hmm, I could come up with something original, or just slap in Sailor Moon (a bit cliché, though), or maybe pick a character from an anime from the 2000s. I also considered Haruhi Suzumiya, but... eventually, I started thinking about "magical girls" in the context of **Lobotomy Corporation**, which suddenly reminded me that I’d been wanting to do some fan art featuring Rodion. No problem—let’s grab some more references:
 ![](/img_orig/2025/kod-rodion/ref2.png)
 ![](/img_orig/2025/kod-rodion/ref3.png)
 ![](/img_orig/2025/kod-rodion/ref4.png)
 ![](/img_orig/2025/kod-rodion/ref5.png)
-Но, надо же от начальной идеи с маскотом в углу что-то придумать, так что я туда вкорячил мясной фонарь -- аномальку из лоботоми.
-## <a id="3"></a>Черновик
-Решено было сделать прям по позе бездействия со спрайта Родионки как наиболее простое решение. Я, конечно, пытался повторить общие формы и антураж первого рефа, но в итоге это оказалось отброшено -- а пропорции остались. Хех.
+But I had to come up with something from the initial idea of a mascot in the corner, so I stuck Meat Lantern there - an abnormality from Lobotomy.
+## <a id="3"></a>Draft
+It was decided to go with the idle pose from Rodions sprite, as it was the simplest solution. I did try to replicate the general shapes and aesthetic of the initial reference, but that was ultimately discarded -- though the proportions remained. Heh.
 ![](/img_orig/2025/kod-rodion/rawsketch1.PNG)
-С позой закончили, пришло время накидать тряпок и остальных штук на модельку, не забыв добавить фонарик в уголок:
+Now that we're done with the pose, it's time to throw some rags and other crap and pieces onto the model, not forgetting to add Meat Lantern in the corner:
 ![](/img_orig/2025/kod-rodion/rawsketch2.PNG)
-...Да, глаза я в итоге ей поменял на более узкие, ибо как-то не вписывались большие с моей точки зрения, но это чууть позже, когда я уже даже немного покрасить ее успею, лол.
-## <a id="4"></a>Чистовой лайн
-Начальная версия с большими глазами:
+...Yeah, I ended up swapping her eyes for narrower ones -- the big ones just didn't fit, in my view -- but that happened a bit later, by which point I’d already managed to get some color, lol.
+## <a id="4"></a>Final lineart
+Initial version with big eyes:
 ![](/img_orig/2025/kod-rodion/lineart1.jpg)
-Подправленная с более узкими:
+Adjusted, with narrower ones:
 ![](/img_orig/2025/kod-rodion/lineart2.png)
-Форму лица надо было бы еще немного изменить, чтобы было нормально, но об этом я уже не подумал *вовремя*. Возможно, стоило оставить как есть и не выеживаться.
-## <a id="5"></a>Покрас
-Ну тут все достаточно просто, казалось бы -- подбираем подходящие цвета и в путь. Тем не менее, есть интересности. Я исправлял глаза уже на этом моменте:
+I should have tweaked the face shape a bit more to get it just right, but I didn’t think of that *in time*. Maybe I should have just left it as it was and not tried to be so clever.
+## <a id="5"></a>Coloring
+It all seems quite straightforward—just pick the right colors and you’re good to go. And yet, there are some interesting nuances. I actually corrected the eyes at this stage:
 ![](/img_orig/2025/kod-rodion/flatcolors.jpg)
-Кстати, о плаще. На артах и спрайте он синий, темнея к низу и к манжетам(вы понели) рукавов. Я это сделал, закрепив прозрачность пикселей(чтобы заливались лишь уже существующие) слоя с плащом, и залил градиентом от основного синего к более темному. На рукавах еще выделение использовал, чтобы не пришлось уж очень много лишнего править. А потом просто накидал звездочек, раз они у нее есть, и сформировал псевдосозвездия. Как видите, я и не претендовал на точность и аккуратность:
+Speaking of the cloak: in the artwork and the sprite, it’s blue, darkening toward the bottom and the cuffs(you know). I achieved this by locking the transparency of the pixels on the cloak layer(ensuring that only the existing pixels would be filled) and then applying a gradient from the base blue to a darker shade. For the sleeves, I used a selection tool to avoid having to do too much extra cleanup. After that, I simply scattered some stars, since she has them, and arranged them into pseudo-constellations. As you can see, I wasn’t exactly aiming for precision or neatness:
 ![](/img_orig/2025/kod-rodion/coat.PNG)
-Такие же звездочки есть и на рукавах, и на гарде ее рапиры.
-## <a id="6"></a>Волосы
-Я подсмотрел эту методику, так что работаю как уж получается. Но там человек прям запаривается, мне же чисто так, чтоб было нескучно. Все шаги ниже показаны вначале отдельно друг от друга, иначе они сливаются в невообразимую муть.
-Начальное:
+There are similar little stars on the sleeves, as well as on the hilt of her rapier.
+## <a id="6"></a>Hair
+I picked up this technique, so I just do it however it turns out. The person I learned it from really puts a lot of effort into it, whereas for me, it’s just a way to keep things from getting boring. The steps below are shown separately at first; otherwise, they’d all blur together into an incomprehensible mess.
+Starting point:
 ![](/img_orig/2025/kod-rodion/hair1.PNG)
-Далее я делаю выделение по цвету волос, и каждый следующий шаг на новом слое. Добавляю затемнения на кончиках и чисто чтобы немного разделить пряди, размазыванием.... размазываю, офк:
+Next, I create a selection based on the hair color, with each subsequent step performed on a new layer. I add some darkening to the tips, just to help separate the strands a bit, by smudging... yes, smudging, of course:
 ![](/img_orig/2025/kod-rodion/hair2.PNG)
-Следующее -- прям основательные тени.
+The next thing is some really solid shadows.
 ![](/img_orig/2025/kod-rodion/hair3.PNG)
-После этого добавляем блики, желательно, подходящего цвета под волосы и свет.
+After this, add highlights, preferably in a color that matches the hair and light.
 ![](/img_orig/2025/kod-rodion/hair4.PNG)
-Последнее -- подобие градиента с более светлыми тонами на бликах, и более темными -- в тенях:
+The last one is a sort of gradient, with lighter tones in the highlights and darker ones in the shadows:
 ![](/img_orig/2025/kod-rodion/hair5.PNG)
-Окей, получилась какая-то залупа, не так ли? Все в порядке, теперь мы включаем разные наложения слоев и их прозрачность.
-На тенях -- умножение/multiply, на бликах и градиенте -- освещение/___light(на ваш выбор, soft/hard/vivid, или вообще что-то другое, что вам покажется более подходящим. Тут я выюрал хард лайт, хоть и склонялся к вивид). Непрозрачность везде на 35% поставил. Итоги:
+Okay, this turned into a total piece of shit, didn't it? No worries—now we’ll start playing around with different layer blending modes and their opacity.
+Shadows -- multiply, highlights and gradient -- ??? light(your choice—soft, hard, vivid, or anything else you feel might be more appropriate. I went with hard light here, though I was leaning toward vivid). I set the opacity to 35% everywhere. The results:
 ![](/img_orig/2025/kod-rodion/hair6.PNG)
-Не особо аккуратно, но и я не ставил себе такой цели.
-## <a id="7"></a>Мясной фонарь
-Окей, начинаем работать над нашим "маскотозаменителем".
+Not particularly neat, but that wasn't my goal either.
+## <a id="7"></a>Meat Lantern
+Okay, let's start working on our "mascot substitute."
 ![](/img_orig/2025/kod-rodion/ml1.PNG)
-Что тут есть? Лампочка, лепестки, стебелек и эффект свечения. Лепестки тоже немного подсвечены. Я делал засветы простой мягкой кисточкой, закрашивая лишние участки в цвет лепестков обратно. Более яркое желтое, менее -- салатовое.
+What do we have here? A light bulb, petals, a stem, and a glowing effect. The petals are also slightly illuminated. I created the highlights using a simple soft brush, then painted back over the excess areas with the original petal colors—using a brighter yellow for some parts, and a lime-green for others.
 ![](/img_orig/2025/kod-rodion/ml2.PNG)
-Сама лампочка была залита салатовым, с желтым по краю и парой-тройкой желтых пузыриков. В оригинале внутри лампы есть темная зона, которую я сделал мягкой кистью, начиная с зеленого, затем темнозеленое среднее, и наиболее темное к самому началу лампы.
+The light bulb itself was filled with light green, with yellow around the edge and a couple of yellow bubbles. In the original there is a dark area inside the lamp, which I made with a soft brush, starting with green, then a dark green in the middle, and darkest towards the very beginning of the lamp.
 ![](/img_orig/2025/kod-rodion/ml3.PNG)
-У фонарика еще есть аура свечения, она зеленоватая, я добавил немного желтого ближе к центру. Не забываем про желтые же пузырики, чем бы они ни были:
+The flashlight also has a glowing aura—it’s greenish, with a bit of yellow added toward the center. And let’s not forget those little yellow bubbles—whatever they might be:
 ![](/img_orig/2025/kod-rodion/ml4.PNG)
-Конечный результат этого псевдоцветка получился таким:
+The final result for this pseudo-flower turned out like this:
 ![](/img_orig/2025/kod-rodion/ml5.PNG)
-Кстати, раз я добавил новый источник света, не забудем добавить немного цвета на штаны и блик на металлическую защиту голени.
+By the way, since I added a new light source, let's not forget to add some color to the pants and a highlight on the metal shin guard.
 ![](/img_orig/2025/kod-rodion/lightmeatlantern.PNG)
-## <a id="8"></a>Фон
-С фонами я никогда не дружил, поэтому я придумал отличную идею как-то раз. Грубо рисую корридор из лоботоми и дверь камеры содержания аномалек:
+## <a id="8"></a>BG
+I’ve never been great at drawing backgrounds, so I once came up with a brilliant idea. I’ll just sketch out a corridor, kind of like the ones in Lobotomy Corporation, along with the door to abnormality containment chamber:
 ![](/img_orig/2025/kod-rodion/bg1.PNG)
-После чего дублирую слой, накидываю на него гауссов блюр в пикселей 30 и ставлю непрозрачность на 95%, чтобы самую малость была хоть какая-то резкость:
+Next, I duplicate the layer, apply a Gaussian blur of about 30 pixels, and set the opacity to 95%, just so there’s still a tiny bit of sharpness left:
 ![](/img_orig/2025/kod-rodion/bg2.PNG)
-Как финальный штрих докидываю фиолетовый градиент в режиме умножения сверху(непрозрачность 75%). Все-таки светящуюся штуку лучше оставить на более темном фоне.
+As a final touch, I’m adding a purple gradient on top, set to Multiply mode (at 75% opacity). After all, a glowing object is best showcased against a darker background.
 ![](/img_orig/2025/kod-rodion/bg3.PNG)
-Итоговый задник:
+Final BG:
 ![](/img_orig/2025/kod-rodion/bg4.PNG)
-## <a id="9"></a>Итог
-Сложив все это, получаем итоговую картинку.
+## <a id="9"></a>Final
+Putting it all together, we get the final picture.
 ![](/img_orig/2025/15-rodya.png)
-Да, неидеально, но и я на нее потратил всего-то часов пять. Копейки!
+Yes, it’s not perfect, but I only spent about five hours on it. That’s next to nothing!

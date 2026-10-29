@@ -1,14 +1,14 @@
 ---
-title: 'бложек'
+title: 'blog'
 layout: 'base.njk'
-desc: '@CingularI - всякие заметки'
+desc: '@CingularI - some texts'
 ---
-# Всратые записки
+# Croocked Notes
 
-Чтож, тут будут расположены ссылки на все категории.
+Well, here will be links to all categories.
 
-- [О картинках](pics)
-- [Как дела в этом месяце?](feel)
-- [Разное](misc)
+- [About pics](pics)
+- [How are things going this month?](feel)
+- [Miscellaneous](misc)
 
 

@@ -1,100 +1,99 @@
 ---
-title: 'картинки/старое/онеме'
+title: 'pics/old/misc'
 layout: 'base.njk'
-desc: '@CingularI - архивные картинки разнообразного содержания'
+desc: '@CingularI - archived misc pics'
 ---
 
-# Архив: всякое
-## Анархист
+# Archived: misc
+## Anarchy man
 ![](/img_orig/old/misc/0.jpg)
-Не знаю старости картинки, посему тут.
-## Растаман
+I don't know how old the picture is, so here it is.
+## Rhastaman
 ![](/img_orig/old/misc/0-1.jpg)
-## Лилит из борды
+## Lilith (Borderlands)
 ![](/img_orig/old/misc/1.jpg)
-это точно наиболее старое из всего что тут есть, у меня даже оригинал не сохранен
-## Гордон Фримен
+This is definitely the oldest of everything here, I don't even have the original saved.
+## Gordon Freeman
 ![](/img_orig/old/misc/2.png)
-и соседняя некая женщина
+and a certain woman next to
 ![](/img_orig/old/misc/2-1.png)
-## Кристалка из доты
+## Crystal Maiden (Dota 2)
 ![](/img_orig/old/misc/3.png)
-не получилось
-## Педовки
+didn't work out
+## Emogirls
 ![](/img_orig/old/misc/4.png)
-педовка в цвете
+colored
 ![](/img_orig/old/misc/5.png)
-а у нее человеческий дизайн
-## Тян в цвете
+and she has a human design
+## Girl in color
 ![](/img_orig/old/misc/6.png)
-## Мужик
+## Man
 ![](/img_orig/old/misc/7.jpg)
-перерисовка чела с брошурки "рисуем в стиле манга"
-## Дед
+Redraw from "How to Draw Manga" brochure
+## Oldman
 ![](/img_orig/old/misc/8.png)
-дед с какого-то грузовичка с брендом печенек по типу ермолино
-## недоделка1
+Oldman from some truck's art with brand mascot of local cookies
+## unfinished1
 ![](/img_orig/old/misc/9.png)
-## непропорциональная тян
+## disproportional tyan
 ![](/img_orig/old/misc/10.png)
-## вожд_инесса
+## Tribal leader_ess
 ![](/img_orig/old/misc/11.png)
-## недоделка2
+## unfinished2
 ![](/img_orig/old/misc/12.png)
-## эмблемка
+## emblem
 ![](/img_orig/old/misc/13.png)
-о, это концепт эмблемки для команды в дотке
-хромая лошадь(ы)
-## тян с копьем в чб
+Oh, this is a concept emblem for a Dota team, The Lame Horse(local meme about fire in nightclub with this title, kek)
+## Girl with spear
 ![](/img_orig/old/misc/14.png)
-## тян
+## girl
 ![](/img_orig/old/misc/14-1.jpg)
-## жуки
+## BUGS
 ![](/img_orig/old/misc/15.jpg)
-## карлсон с бояном
+## Karlsson with accordion
 ![](/img_orig/old/misc/16.png)
-## гном новогодний
+## Christmas gnome
 ![](/img_orig/old/misc/17.png)
-## гном темный
+## Dark gnome
 ![](/img_orig/old/misc/18.png)
-## тян на перилах
+## Girl on the railing
 ![](/img_orig/old/misc/19.png)
-## р а к и
+## L O B S T E R S
 ![](/img_orig/old/misc/20.jpg)
-## механичка с террарии
+## Mechanic (Terraria)
 ![](/img_orig/old/misc/21.png)
-## тотемовое
+## Totem
 ![](/img_orig/old/misc/22.png)
-## пионэр
+## Pioneer
 ![](/img_orig/old/misc/23.jpg)
-## срисовка с арта по бличу
+## Copying from Bleach art
 ![](/img_orig/old/misc/24.jpg)
-## тян с сигой
+## Girl with Cig
 ![](/img_orig/old/misc/25.jpg)
-## легионер/гоплит
+## legionary/hoplite
 ![](/img_orig/old/misc/26.jpg)
-## фарфоровновая кукла
+## porcelain doll
 ![](/img_orig/old/misc/27.jpg)
-## проекции байка из виража3000
+## bike projections from milennium racer
 ![](/img_orig/old/misc/28.png)
-## Мисаки из nhk ni youkoso
+## Misaki (nhk ni youkoso)
 ![](/img_orig/old/misc/29.jpg)
-## ханако из катавы, срисовка
+## HAnako Ikezawa (Katawa Shoujo)
 ![](/img_orig/old/misc/30.jpg)
-## криоинженер, концепт для инди-шутана
+## Cryoengineer, concept
 ![](/img_orig/old/misc/31.png)
-## планшетовое
+## Tablet drawings
 ![](/img_orig/old/misc/33.png)
-я кстати в тот день купил первый планшет, интуос формата а5
-2 июля 2019
+By the way, that day I bought my first tablet, an small Intuos.
+July 2, 2019
 ![](/img_orig/old/misc/34.png)
-24 октября 2019
+October 24, 2019
 ![](/img_orig/old/misc/35.png)
 ![](/img_orig/old/misc/36.png)
-после долгого перерыва в трогании планшета, оно вылупилось
-25 декабря 2022
+After a long break from touching the tablet, it hatched
+December 25, 2022
 ![](/img_orig/old/misc/37.png)
-3 июня 2023
+June 3, 2023
 ![](/img_orig/old/misc/38.png)
-2 июня 2023
+June 2, 2023
 

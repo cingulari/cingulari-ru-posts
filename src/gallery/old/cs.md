@@ -1,41 +1,41 @@
 ---
-title: 'картинки/старое/мутация'
+title: 'pics/old/cs'
 layout: 'base.njk'
-desc: '@CingularI - архивные картинки тянок с косичьками'
+desc: '@CingularI - archived CS pics'
 ---
 
-# Архив: Crimson Scythe
-Пропустим вводную, написаную лет в 15, имеем следующее:
-- 12 женщин
-- И все с косами(но не точно)
-- А до конца не доведено
-- И хрен бы с ними
-- Однако уже данные имена оставим в силе
+# Archived: Crimson Scythe
+Skipping the intro which was written when I was about 15, here’s what we’ve got:
+- 12 girl
+- All with scythes (though that’s not certain)
+- Nothing’s been fully fleshed out
+- Well whatever
+- Still, let’s keep the names as they are
 ## Indalibel
 ![](/img_orig/old/cs/1.jpg)
-Эту мы чисто в пути забацали до шараги.
+We whipped this up while on our way to college.
 ![](/img_orig/old/cs/2.jpg)
-А это срисовка и адаптация с брошурки по рисованию в стиле манго.
+This is a copy and adaptation from a booklet on how to draw in a manga style.
 ## Rinaribel
-По-моему, она первой и была. В сути норм.
+I think she was the first one, actually. Basically, it’s fine.
 ![](/img_orig/old/cs/3.jpg)
 ## Andaribel
 ![](/img_orig/old/cs/4.jpg)
-Коса проебалась, ладно.
+Where's scythe, you liar?
 ## Meikebel
 ![](/img_orig/old/cs/5.jpg)
-Какие-то мотивы от Мокси с борды есть, но вот формы ее были утрачены.
+There are some motifs reminiscent of Moxxi from Borderlands, but her original forms have been lost.
 ## Harukibel
 ![](/img_orig/old/cs/6.jpg)
-Не спрашивайте.
+Do not ask.
 ## Chikribel
 ![](/img_orig/old/cs/7.jpg)
-Если вы видите тут намеки на прическу как у Ино из нарутки, вам кажется.
+If you see any hints here of a hairstyle like Ino’s from Naruto, you’re just imagining things.
 ![](/img_orig/old/cs/8.jpg)
-О, а это где-то за пару месяцев до начала нормального изучения рисования в 2022.
+Oh, and this was from a couple of months or so before I started studying drawing in earnest in 2022.
 ## Sandebel
 ![](/img_orig/old/cs/9.jpg)
-Чзх Алукард??
+Dafuq, Alucard??
 ![](/img_orig/old/cs/10.jpg)
-Явно.
+Apparently.
 

@@ -1,161 +1,161 @@
 ---
-title: 'картинки/старое/мутация'
+title: 'pics/old/mutation'
 layout: 'base.njk'
-desc: '@CingularI - архивные картинки концепта игры'
+desc: '@CingularI - archived concept pics'
 ---
 
-# Архив: Mutation/Ignited
->Это должна была быть игра наподобие Crimsonland.
+# Archived: Mutation/Ignited
+>It was supposed to be a game like Crimsonland.
 
-За остальной инфой проследуйте на [вики](/aliteg-wiki/index.php/Ignited). Тут же будут лежать все сохранившиеся художества, начиная с наиболее карательных -- оставшихся в виде фотографий с нокии6300. А в конце я докину даже некоторые ассеты, вытащенные из игры, вдохновившей это все дело.
-Быстрое перемещение:
-- [Утерянное](#1)
-- [Сканы](#2)
-- [Ассеты из игры Мутант](#3)
+For more information, visit [wiki](/aliteg-wiki/index.php/Ignited). All the surviving artworks will be kept here, starting with the most punitive ones - those left in the form of photos from a Nokia 6300. And at the end I’ll even throw in some assets pulled from the game that inspired this whole thing.
+Fast travel:
+- [Lost and Found](#1)
+- [Scans](#2)
+- [Mutant game assets](#3)
 
-## <a id="1"></a> Утерянное
-### Мутация: достижения
+## <a id="1"></a> Lost and Found
+### Mutation: achievements
 ![](/img_orig/old/ignited/1.jpg)
 ![](/img_orig/old/ignited/2.jpg)
-Была ранее в соцсетях игра под названием "Мутант", с приходом конца флешплеера она очевидно отмерла. Однако, вы все еще можете еще скачать как APK-файл, но оно не работает на чем-либо новее андроида5. Издавал, кстати, алавар, если помните таких. Но ближе к делу.
-В игре были разнообразные достижения, и это можно считать своеобразным стадиком. Все-таки я не стану отрицать, выглядели они достаточно стильно, единственное что я не предусмотрел -- с помощью фломиков "красная цена, 7 цветов" будет трудно делать такие же градиенты, так что все было проще.
-Учитывая, что пиктограммки пронумерованы, уверен, у них были и названия, и условия.
-### Мутация: кланы
+There used to be a game called "Mutant" floating around social media, but with the end of Flash Player, it apparently died out. You can still download it as an APK file, but it doesn't work on anything newer than Android 5. Incidentally, it was published by Alawar, if you remember them. But let's get to the point.
+The game had a variety of achievements, and you could consider it a kind of study. I won't deny they looked quite stylish, though. The only thing I didn't foresee was that it would be difficult to create the same gradients using "Temu, 7 colors" markers, so I kept it simple.
+Considering the icons are numbered, I'm sure they had names and conditions.
+### Mutation: clans
 ![](/img_orig/old/ignited/3.jpg)
-Так, хорошо. Были мысли добавить кланы в игру с бонусами и минусами. Так как в самой игре была валютка обычная и валютка донатная, зеленым и золотым соответственно указана стоимость вступления. Для понимания, чтобы взять на выживание(классический режим игры, 12 минут, боссы каждые пару минут) дополнительных пушек, нужно было отвалить 150 очков снаряжения(зелень). За донатную открывались персонажи да новое снаряжение -- навсегда.
-Постараюсь разобрать, че я там подписал под значками. Бонусы с минусами не назову, понятное дело.
-Первый ряд:
-- Мародеры(не уверен)
-- Техники
-- Обожженные
+Okay, okay. I was thinking about adding clans to the game with bonuses and drawbacks. Since the game itself had both regular and donation currencies, the entry costs were indicated in green and gold, respectively. To give you an idea, to get additional guns for Survival (classic game mode, 12 minutes, bosses every couple of minutes), you had to shell out 150 gear points (green). Donation unlocked characters and new gear—permanently.
+I'll try to decipher what I wrote under the icons. I won't list any bonuses or drawbacks, obviously.
+First row:
+- Marauders(not sure)
+- Techies
+- Ignited
 
-Второй ряд:
-- Армейцы
-- Медики
-- Сталкеры(не уверен)
+Second row:
+- Army
+- Medics
+- Stalkers(not sure)
 
-И по краешку:
-- Анархисты
-- Сектанты
-- Психи
-- Мутанты
-- Кровавые
+On the edges:
+- Anarchists
+- Cultists
+- Psychos
+- Mutants
+- Bloodhounds
 
-Было трудно. Почему я не догадывался просто отсканировать это дерьмо?
-### Сталкер
+It was hard. Why didn't I think to just scan this crap?
+### Stalker
 ![](/img_orig/old/ignited/4.jpg)
-Конечно же, придумывать новых персонажей в игру любили все, так что и я этим занимался. У персонажей, чтобы они не были просто рескинами ради рескинов, были свои врожденные сильные и слабые стороны, а так же стартовое дополнительное оружие вдобавок к бесконечному пистолэту. А, точно, еще и суперспособность была у каждого своя, во!
-Я нихера не могу прочесть, извините. Кстати, впоследствии был ремейк рисунка.
+Of course, everyone loved creating new characters for the game, so I did that too. To make sure they weren't just reskins for the sake of reskins, the characters had their own innate strengths and weaknesses, as well as a starting secondary weapon in addition to the infinite pistol. Oh, and each one had their own superpower, sheesh!
+I can't read a damn thing, sorry. Incidentally, the drawing was later remade.
 ![](/img_orig/old/ignited/5.jpg)
-Но тут хотя бы я вижу бонусы персонажа!
-- +5 сопротивление урону
-- +50 длительность бонусов
-- +50 бонусы дольше лежат
-- Оружие М-16(120 патронов)
-- Способность Граната (15 секунд)
-### Разведчик
+But at least here I can see the character's bonuses!
+- +5 damage resistance
+- +50 bonus duration
+- +50 bonus longing of the floor
+- M-16 weapon (120 rounds)
+- Ability: Grenade (15 seconds)
+### Scout
 ![](/img_orig/old/ignited/6.jpg)
-Тут явно увеличена скорость бега, уменьшено здоровье либо урон. Недостатки референсов для позы ощутимо сказываются.
-Ремейк тоже был.
+Here, the running speed has clearly been increased, while either health or damage has been reduced. The shortcomings of the pose references are noticeably noticeable.
+There was a remake, too.
 ![](/img_orig/old/ignited/7.jpg)
-Не, совсем неразборчиво все, кроме как +40 скорость бега.
-### Киллер
+No, everything is completely unintelligible except for +40 running speed.
+### Killer
 ![](/img_orig/old/ignited/8.jpg)
-Явно что-то связанное с меткостью и радиусом обзора, наверное.
+Obviously something to do with accuracy and viewing radius, probably.
 ![](/img_orig/old/ignited/9.jpg)
-Ну да, +50 меткость и что-то там еще.
-### Мастер
+Well, yes, +50 accuracy and something else.
+### Master
 ![](/img_orig/old/ignited/10.jpg)
-Идеи иссякли, ремейк не был исполнен.
-### Пулеметчик
+The ideas ran out and the remake was never completed.
+### Machine Gunner
 ![](/img_orig/old/ignited/11.jpg)
-Единственное, что я вообще могу распознать, это +50 скорострельность, -50 меткость. Ну и то, что оружие -- пулемет, вроде 300 патронов. Все.
+The only thing I can even recognize is the +50 rate of fire, -50 accuracy. And the fact that the weapon is a machine gun, with something like 300 rounds. That's all.
 ![](/img_orig/old/ignited/12.jpg)
-А ловко я придумал срисовать чела с какой-то книжки по сталкеру, а ловко! У меня сейчас этой книжки нет, поэтому я не знаю точно названия.
-### Снайпер
+How clever of me to copy the guy from some Stalker book, how clever! I don't have that book right now, so I don't know the exact title. And I don't think you even know this since it was probably russian-only thing.
+### Sniper
 ![](/img_orig/old/ignited/13.jpg)
-Интересно, почему у снайпера нет бонуса на меткость, однако есть +15 бег, +30 время бонусов. Ну ладно, а почему гауссган-то?
+I wonder why the sniper doesn't have an accuracy bonus, but has a +15 run and +30 bonus duration. Okay, so why the gauss gun?
 ???
-### Пиротехник
+### Pyrotechnician
 ![](/img_orig/old/ignited/14.jpg)
-Опять время бонусов, дополнтельный урон, и сниженная скорость бега. И базука -- чем отличается от уже существовавшего в игре Разрушителя(тоже базука, тоже медленный, тоже увеличенный урон), сложно понять. Но как ульта у Пиро были взрывпакеты, которые можно было наспамить до 5 штук и подорвать все за один раз.
-### ОМОНовец
+Again bonus duration, additional damage, and reduced running speed. And the bazooka - how it differs from the Destroyer that already existed in the game (also a bazooka, also slow, also increased damage) is difficult to understand. But as an ult, Pyro had explosive packages that could be spammed up to 5 times and detonate them all at once.
+### OMON enforcer
 ![](/img_orig/old/ignited/15.jpg)
-Ладно, мне на этот момент даже написать особо нечего. Нужно было добавить перса, которому можно было дать новую пушку, в этот раз -- дробовик бенели, подсмотренный в TDP4(кто помнит тот помнит).
-### Егерь
+Okay, I don't really have much to write about at this point. I needed to add a character who could be given a new gun, this time the Beneli shotgun, which I spied in TDP4 (for those who remember it, remember it).
+### Huntsman
 ![](/img_orig/old/ignited/16.jpg)
-Вроде это был первый персонаж с врожденным сопротивлением всему урону.
-### Лаборант
+It seems that this was the first character with an innate resistance to all damage.
+### Lab technitian
 ![](/img_orig/old/ignited/17.jpg)
-Странно помнить, что это был изначально пенисоносец, а не женщина в итоге. Окей, принимается. Кстати, лазерное оружие началось на этом моменте.
-### Хаосит
+It's strange to remember that it was originally a penis-bearer, not a woman in the end. Okay, accepted. Incidentally, laser weapons started at this point.
+### Chaosit
 ![](/img_orig/old/ignited/18.jpg)
-Опа, перс с врожденной регенерацией, причем посильнее, чем у уже существовавшего Полумутанта.
-### Оружие
+Oi, a character with innate regeneration, and even stronger than the already existing Half-Mutant.
+### Weapons
 ![](/img_orig/old/ignited/19.jpg)
 ![](/img_orig/old/ignited/20.jpg)
 ![](/img_orig/old/ignited/21.jpg)
-Окей, небольшая подборка всех пушек, что я успел своровать для идей. 
-### Гербы
+Okay, here's a small selection of all the guns I managed to steal for ideas.
+### Emblems
 ![](/img_orig/old/ignited/22.jpg)
-Те же эмблемки кланов, но уже отвязанные от "старого" стиля. Насколько же, блять, нечитаем карандаш на подобных фотографиях, просто невообразимо.
-## <a id="2"></a> Сканы
-### Мутация: карта
+The same clan emblems, but now detached from the old style. It's simply unimaginable how fucking illegible the pencil is in photos like these.
+## <a id="2"></a> Scans
+### Mutation: map
 ![](/img_orig/old/ignited/23.jpg)
-### The Last Days: локации
+### The Last Days: locations
 ![](/img_orig/old/ignited/24.jpg)
 ![](/img_orig/old/ignited/25.jpg)
 ![](/img_orig/old/ignited/26.jpg)
 ![](/img_orig/old/ignited/27.jpg)
-### Мутация: персонажи
+### Mutation: characters
 ![](/img_orig/old/ignited/28.jpg)
 ![](/img_orig/old/ignited/29.jpg)
 ![](/img_orig/old/ignited/30.jpg)
 ![](/img_orig/old/ignited/31.jpg)
 ![](/img_orig/old/ignited/32.jpg)
 ![](/img_orig/old/ignited/36.jpg)
-### Мутация: оружие
+### Mutation: weapons
 ![](/img_orig/old/ignited/33.jpg)
 ![](/img_orig/old/ignited/34.jpg)
 ![](/img_orig/old/ignited/35.jpg)
-## <a id="3"></a> Ассеты из игры "Мутант"
-### Интерфейс
+## <a id="3"></a> Muttant game assets
+### UI
 ![](/img_orig/old/ignited/mutant/1.png)
-Все иконки ачивок. При желании могу вспомнить, что есть что, но зачем?
+All the achievement icons. I can remember which ones are which if I want, but why?
 ![](/img_orig/old/ignited/mutant/2.png)
-Иконки локаций, где мы находимся.
+Icons of locations where we are.
 ![](/img_orig/old/ignited/mutant/4.png)
-Иконки пушек в интерфейсе.
+Gun icons.
 ![](/img_orig/old/ignited/mutant/5.png)
-Патроны к оружке.
+Ammo icons.
 ![](/img_orig/old/ignited/mutant/6.png)
-Иконки исследований, усиливавших урон определенного оружия.
+Research icons that increased the damage of certain weapons.
 ![](/img_orig/old/ignited/mutant/7.png)
-Иконки бонусов в инвентаре.
+Bonus icons in inventory.
 ![](/img_orig/old/ignited/mutant/8.png)
-Дроп в игре, который мы можем поднять.
+Drops in the game that we can pick up.
 ![](/img_orig/old/ignited/mutant/9.png)
-Иконки мпецумений персонажей и всякие бонусы.
+Icons of characters' abilities and various bonuses.
 ![](/img_orig/old/ignited/mutant/10.png)
-Иконки исследований, усиливавших персонажа. Синие со стрелкой - скорость бега, сигий с волнами - скорость стрельбы, красный - регенерация, зеленый - продолжительность действия бонусов. Чем темнее, тем выше уровень.
-### Персонажи
+Research icons that boosted the character. Blue icons with an arrow indicate running speed, blue with waves indicates shooting speed, red icons indicate regeneration, and green icons indicate bonus duration. The darker the icons, the higher the level.
+### Characters
 ![](/img_orig/old/ignited/mutant/3.png)
-Киборг, Телепат, Полумутант, Убийца, Разрушитель, Ведьма, Фанатик, Охотник, Наемник, Ядерщик. Наиболее конечные картинки.
+Cyborg, Telepath, Half-Mutant, Assassin, Destroyer, Witch, Fanatic, Hunter, Mercenary, Nuclear Scientist. The most final images.
 ![](/img_orig/old/ignited/mutant/11.jpg)
-Подвид Охотника. Работает идентично.
+A subspecies of the Hunter. Functions identically.
 ![](/img_orig/old/ignited/mutant/14.jpg)
-Ведьмак, та же Ведьма, но со смешной мясной палкой.
+The Witcher is the same as the Witch, but with a funny meat stick.
 ![](/img_orig/old/ignited/mutant/16.jpg)
-Подвид Ядерщика, работает так же как и обычный.
+A subspecies of the Nuclear Scientist, works the same as the regular one.
 ![](/img_orig/old/ignited/mutant/17.jpg)
-Старая иконка Наемника.
+Old Mercenary icon.
 ![](/img_orig/old/ignited/mutant/20.jpg)
-Старая иконка Убийцы.
+Old Assassin icon.
 ![](/img_orig/old/ignited/mutant/18.jpg)
-Старая иконка Разрушителя.
+Old Destroyer icon.
 ![](/img_orig/old/ignited/mutant/15.jpg)
-Старая иконка Охотника.
+Old Hunter icon.
 ![](/img_orig/old/ignited/mutant/19.jpg)
-Старая иконка Фанатика.
+Old Fanatic icon.
 ![](/img_orig/old/ignited/mutant/21.jpg)
-Старая иконка Ядерщика.
+Old Nuclear Scientist icon.

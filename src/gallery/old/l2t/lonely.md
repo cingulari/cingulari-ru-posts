@@ -1,43 +1,57 @@
 ---
 title: 'l2t/lonely'
 layout: 'base.njk'
-desc: '@CingularI - Лонели с L2T'
+desc: '@CingularI - Lonely from L2T'
 ---
 
-# Лонели
+# Lonely
 
-Имя | Анна
+Name | Anna
 --- | ---
-Отношения | [Сакри](../sacry) -- брат
-Профессия | Студент первого курса, пиротехник 
-Внешность | Среднего роста<br>Иссиня черные волосы<br>Серые глаза<br>Татуировка-полосы по телу<br>Рубашка мятного цвета<br>Черная вязаная жилетка<br>Темно-синяя юбка<br>Белые кеды<br>Белая сумка через плечо<br>Плащ в прохладное время года 
-Связанные предметы | Шарф футбольного клуба "Спартак"<br>Монтировка<br>Гитара 
-Характер | Закрытая<br>Ответственная<br>Раздражительная 
-Положительные стороны | Возьмет нужного персонажа в мультиплеере.<br>Обожает химию.<br>Есть перегонный куб.<br>Может дать попользоваться своими химическими реагентами и оборудованием.
-Отрицательные стороны | Очень смешно горит и уходит фидить противника.<br>Помнит все косяки окружающих и себя.<br>Не умеет готовить еду.<br>Может поджечь дом обидчика вместе с обидчиком. 
+Relationships | [Sacry](../sacry) -- brother
+Occupation | ~~First-year student~~, pyrotechnician 
+Appearance | Average height<br>Blaze-black hair<br>Gray eyes<br>Stripe tattoo on body<br>Mint-colored shirt<br>Black knit vest<br>Dark blue skirt<br>White sneakers<br>White shoulder bag<br>Coat for the cool season
+Related items | Scarf of the football club ~~"Spartak"~~<br>Crowbar<br>Guitar
+Personality | Introverted<br>Responsible<br>Irritable
+Positive aspects | Will take the right character in multiplayer.<br>Loves chemistry.<br>Has a distillation still.<br>May let use her chemical reagents and equipment.
+Negatives | She gets really funny when she rages and then goes off to feed the enemy.<br>Remembers all the mistakes - both those of others and her own.<br>Can't cook.<br>May set fire to the offender's house along with the offender.
 
-## История
+## History
 ### 2012
-Главный персонаж-девушка. Сестра [Сакри](../sacry). Имя образовано от англ. lonely - одинокий(одиночество с рождения), так как она в любой обстановке, даже в компании друзей, остается одной. Доучивается в 9 классе. Имеет татуировку по всему телу, любит рэп и метал, болеет за "Спартак", игроманка, имеет ярко выраженную пироманию. Довольно часто размышляет о жизни, хотя и имеет репутацию балагура у знакомых. Одевается не вызывающе. Носит зеленую футболку с надписью "Alfapalm", синюю юбку и белые кроссовки. Ходит с белой спортивной сумкой, в которой лежат тетрадки, исписанные всякой игровой информацией - шансы выпадения лута, количества хп и армора у боссов, и тому подобные. В комнате немного пространства, его занимают стопки "Игромании", "ЛКИ" и подобных журналов. На стенах развешены постеры, у кровати гитара. На столе мощный игровой ноутбук. 
+*Please remember this was 2012 and the author was young. We're working with what we had and don't be shy*
+The MC girl. [Sacry](../sacry)'s sister. The name comes from the English word "lonely" (loneliness from birth), as she remains alone in any situation, even with friends. She's finishing 9th grade. She has tattoos all over her body, loves rap and metal, is a Spartak fan, gamer, has a pronounced pyromania. She often reflects on life, although she has a reputation among her friends as a joker. She dresses modestly. She wears a green T-shirt with the word "Alfapalm," a blue skirt, and white sneakers. She carries a white sports bag filled with notebooks covered with all sorts of game information -- loot drop rates, boss HP and armor amounts, and the like. The room is small, filled with stacks of "Igromania," "LKI," and similar magazines. Posters hang on the walls, and a guitar sits by the bed. A powerful gaming laptop sits on the desk.
+At that time she was called Lisa, because I simped one girl in school.
 ### 2014
-Лонели стала более серьезной. За два года она определилась с дорогой, которой пойдет. Лонели достигла больших успехов в философии, ей легко говорить на такие темы. Но в компании она продолжает играть роль балагурки. Интересы почти не изменились. Она все так же болеет за "Спартак", все так же зависает в мультиплеере, все так же любит огонь и даже прошла пиротехнические курсы. А теперь Лонели не просто любит музыку, она без нее жить не может. Носит зеленую рубашку, черную жилетку, темно-синюю юбку. Из обуви предпочтение отдает кедам. И еще носит шарф "Спартака". Ходит с зеленой спортивной сумкой. В ней уже нет тетрадей со статистической игровой информацией - Лонели научилась запоминать ее. Теперь там лежат различные химические компоненты - в основном соли(хаха), конечно - с помощью которых пиротехнические смеси приобретают новые свойства. Так же в сумке нашлось место ннесколькм видам спичек и зажигалок. Комната сильно изменилась. Теперь она напоминает какую-то химическую лабораторию. Появилось множество шкафов и шкафчиков для реагентов и смесей. Ноутбук заменен на не менее мощный компьютер. Постеры и подобную им мишуру Лонели пришлось снять - смеси иногда горят совершенно неожиданно. 
-### Прототип
-Отсутствует. 
+*Please remember this was 2014 and the author was young. We're working with what we had and don't be shy*
+Lonely has become more serious. Over the past two years, she's decided on her path. Lonely has achieved great success in philosophy; it's easy for her to discuss such topics. But in company, she continues to play the role of a joker. Her interests haven't changed much. She still supports Spartak, still enjoys multiplayer, still loves fire, and even took a pyrotechnics course. Now, Lonely doesn't just love music; she can't live without it. She wears a green shirt, a black vest, and a dark blue skirt. Her footwear of choice is sneakers. She also wears a Spartak scarf. She carries a green gym bag. It no longer contains notebooks with game statistics, Lonely has learned to memorize them. Now it contains various chemical components—mostly salts (mixes, spices), of course -- which are used to impart new properties to pyrotechnic mixtures. The bag also has room for several types of matches and lighters. The room has changed dramatically. It now resembles a chemistry lab. Numerous cabinets and cupboards for reagents and mixtures have appeared. The laptop has been replaced with an equally powerful computer. Lonely had to remove the posters and other similar tinsel -- the mixtures sometimes burn quite unexpectedly.
+### 2025
+Oh, the bullshit you spun, author, I should chop your skull off for that crap. Don't give away the nickname's origin, that's fucking cringe.
+A short description has been added for reference. Nothing has changed drastically in the backstory. A cold weather clothing option has been added.
+To ensure the character isn't completely empty, a character arc is ascribed, along with her strengths and weaknesses. Resentment can and will certainly play a role.
+Now that the setting is established, Lonely's synergy with [Alexandra](../alexandra) and [Japa](../Japa) looks very good -- the mechanic is always up for any movement involving technical experimentation, and both need each other's equipment from time to time; and the latter, with her curiosity and penchant for delving into ruins where others would be afraid, can bring back some good ingredients.
+Incidentally, Lonely doesn't have any particularly destructive bad habits.
 
-## Галерея
+### Prototype
+~~Absent.~~ A fucking bullshitter. My friend, with whom I spent time screwing around instead of first classes for both of us. Her name was also Anna, by the way.
 
-![карточка](/img_orig/old/l2t/12.jpg)
-Такие сделаны под всех персонажей, чтобы дать общий внешний вид, связанный с ними предмет или рейджфейс, ну, извините.
-![первое появление](/img_orig/old/l2t/2.jpg)
-Самый первый артец с ней, который вообще есть.
-![комната](/img_orig/old/l2t/8.jpg)
-Ну куда же без комнаты? О понятиях перспективы я кстати тогда не слышал, но не думаю что тут есть что доказывать.
-![изнасилование в гимпе](/img_orig/old/l2t/26.jpg)
-Первый пляжный арт утерян в оригинале к моему сожалению, ну а второй лишь обводка с комнаты.
-![с гитарой](/img_orig/old/l2t/31.jpg)
-Тут я немного обосрался, и лицо был вынужден закрывать челкой, ведь у нее она с той стороны. Нужно было в другую сторону ее позу делать, да.
-![чибик](/img_orig/old/l2t/22.jpg)
-Да уж, чибик успешно завален, не осилил руки. Ну, попытка не пытка.
-![последнее физическое](/img_orig/old/l2t/35.jpg)
-Я был уверен, что у меня есть вычищенный от посторонних надписей из *NHK ni Youkoso* вариант. Увы, стыд и срам. Не беспокойтесь, на остальных пикчах с марта 2014-го все убрано. Ну, почти.
-А тут будет все заблюрено, а как вы хотели?
+## Gallery
+
+![card](/img_orig/old/l2t/12.jpg)
+These are made for all characters to give a common appearance, an item associated with them, or a rageface, well, sorry.
+![first apperance](/img_orig/old/l2t/2.jpg)
+The very first piece of art with her that exists.
+![room](/img_orig/old/l2t/8.jpg)
+Well, where would we be without a room? Incidentally, I hadn't heard of the concept of perspective back then, but I don't think there's anything to prove here.
+![gimp rape](/img_orig/old/l2t/26.jpg)
+The first beach art is lost in the original, unfortunately, and the second is just an outline from the room.
+![guitar](/img_orig/old/l2t/31.jpg)
+Here I screwed up a bit and had to cover her face with hair, because she has it on that side. I should have done her pose the other way, yes.
+![chibi](/img_orig/old/l2t/22.jpg)
+Yeah, chibi was been successfully wasted, I couldn't do arms properly. Well, nothing's lost in trying.
+![last traditional](/img_orig/old/l2t/35.jpg)
+I was sure I had a version of NHK ni Youkoso cleaned up of all the extraneous text. Alas, it's a shame. Don't worry, the other pictures have had everything removed since March 2014. Well, almost.
+But this one will be blurred out, what did you expect?
+![last traditional](/img_orig/2024/lon.png)
+So, can this actually be considered a finished piece, brought to completion as far as my current abilities allow? I guess it wasn’t just gathering dust for 12 years for nothing! Well, look at that—let’s congratulate this long-gestating creation.
+I’ve touched up the hair and the skirt, and corrected the awkward, off-balance pose from the version in my previous post.
+It’s colored using gradients, which means it could easily be recolored into something else. The color balance seems fairly well-leveled, and nothing looks too jarring or chaotic—though, to be honest, I don’t really know much about that yet.
